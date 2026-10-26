@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score
+Random Forest,3.041,3.804,0.294
+Linear Regression,3.395,4.196,0.141
+Average Baseline,3.646,4.55,-0.01
